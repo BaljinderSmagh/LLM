@@ -1,0 +1,12 @@
+name: ragenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - faiss
+  - pip
+  - pip:
+      - sentence-transformers
+      - transformers
+      - torch

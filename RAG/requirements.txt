@@ -1,8 +1,10 @@
 openai
-faiss-cpu
+faiss-cpu #if it fails, try conda install -c conda-forge faiss
 chromadb
 langchain
 tiktoken
 huggingface-hub
 python-dotenv
 pandas
+sentence-transformers
+transformers

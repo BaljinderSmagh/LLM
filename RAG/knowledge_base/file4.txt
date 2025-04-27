@@ -1,0 +1,16 @@
+The human heart pumps blood through a process called the cardiac cycle, which consists of two main phases: systole and diastole.
+
+1. **Diastole (Relaxation Phase):**
+    - The heart muscles relax, allowing the atria to fill with blood from the veins.
+    - The right atrium receives deoxygenated blood from the body via the superior and inferior vena cava.
+    - The left atrium receives oxygenated blood from the lungs via the pulmonary veins.
+    - Blood flows passively from the atria into the ventricles through the open atrioventricular (AV) valves (tricuspid valve on the right and mitral valve on the left).
+
+2. **Systole (Contraction Phase):**
+    - The atria contract first, pushing additional blood into the ventricles.
+    - The ventricles then contract, forcing blood out of the heart.
+    - The right ventricle pumps deoxygenated blood to the lungs through the pulmonary artery.
+    - The left ventricle pumps oxygenated blood to the rest of the body through the aorta.
+    - During this phase, the AV valves close to prevent backflow, and the semilunar valves (pulmonary and aortic valves) open to allow blood to exit.
+
+This continuous cycle ensures that oxygen-rich blood is delivered to the body while oxygen-poor blood is sent to the lungs for reoxygenation.

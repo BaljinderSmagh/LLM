@@ -25,6 +25,6 @@ def build_faiss_index(doc_folder, index_save_path):
 
     index = faiss.IndexFlatL2(dimension)
     index.add(embeddings)
-
+ 
     faiss.write_index(index, index_save_path)
     return model, documents

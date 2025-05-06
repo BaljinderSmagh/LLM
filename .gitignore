@@ -1,0 +1,7 @@
+
+# Ignore large model artifacts
+model-compression/lora-output/*.safetensors
+model-compression/lora-output/**/*.pt
+model-compression/lora-output/**/*.json
+model-compression/lora-output/**/*.model
+

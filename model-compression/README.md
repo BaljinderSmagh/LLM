@@ -45,6 +45,21 @@ python scripts/quantize_post_train.py \
     --output ./models/flan-quantized
 ```
 
+### 4. Evaluate a base model:
+```bash
+python scripts/evaluate_compression.py \
+    --model google/flan-t5-small \
+    --prompt "What is the capital of France?"
+```
+### 5. Evaluate a LoRA-adapted model:
+```bash
+python scripts/evaluate_compression.py \
+    --model google/flan-t5-small \
+    --prompt "Explain quantum computing" \
+    --lora lora-output/
+```
+
+
 ---
 
 ## 📊 Evaluation

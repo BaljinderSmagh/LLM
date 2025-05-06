@@ -1,0 +1,17 @@
+# Core LLM compression environment (Apple Silicon compatible)
+torch>=2.0
+transformers>=4.37.2
+datasets>=2.10
+peft>=0.8.2
+accelerate>=0.23.0
+sentencepiece
+protobuf
+scipy
+
+# Optional for experiments
+ipykernel
+jupyter
+matplotlib
+
+# Do NOT install bitsandbytes on Mac (unsupported)
+# bitsandbytes  # <- only for Linux + NVIDIA GPUs

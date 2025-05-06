@@ -1,9 +1,3 @@
-{
-    "data": [
-      {"text": "<|user|>\nWhat is the capital of France?\n<|end|>\n<|assistant|>\nParis<|end|>"},
-      {"text": "<|user|>\nWho wrote the play Hamlet?\n<|end|>\n<|assistant|>\nWilliam Shakespeare<|end|>"},
-      {"text": "<|user|>\nWhat is the boiling point of water?\n<|end|>\n<|assistant|>\n100 degrees Celsius<|end|>"},
-      {"text": "<|user|>\nWhat is the capital of India?\n<|end|>\n<|assistant|>\nNew Delhi<|end|>"},
-      {"text": "<|user|>\nWhat is the chemical formula for water?\n<|end|>\n<|assistant|>\nH2O<|end|>"}
-    ]
-  }
+{"text": "<|user|>\nWhat is the capital of France?\n<|end|>\n<|assistant|>\nParis<|end|>"}
+{"text": "<|user|>\nWho wrote Hamlet?\n<|end|>\n<|assistant|>\nWilliam Shakespeare<|end|>"}
+{"text": "<|user|>\nWhat is the chemical formula for water?\n<|end|>\n<|assistant|>\nH2O<|end|>"}

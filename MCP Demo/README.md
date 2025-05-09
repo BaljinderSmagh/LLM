@@ -7,6 +7,8 @@
 - Retrieved documents (RAG)
 - Tool outputs (APIs, DB queries)
 
+More can be found here-https://modelcontextprotocol.io/introduction
+
 It enables **agentic behavior** in LLMs, letting them pull and combine relevant information before generating responses.
 
 ### Diagram
